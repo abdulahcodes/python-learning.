@@ -12,7 +12,7 @@ My daily Python practice and beginner projects.
 - [x] Day 4 – Strings, Tuples & Lists
 - [ ] Day 5 – Conditional Statements
 - [ ] Day 6 – Dictionaries & Sets
-- [ ] Day 7 – Functions
+- [ ] Day 7 – Conditional Expressions
 - [ ] Day 8 – File Handling
 
 ---
