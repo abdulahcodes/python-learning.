@@ -15,4 +15,5 @@ My daily Python practice and beginner projects.
 - [ ] Day 7 – Conditional Expressions
 - [ ] Day 8 – File Handling
 - [ ] Day 9 - Loops in Python
+- [ ] Day 9 - Practice Set of Loop ( Multiplication Table )
       
