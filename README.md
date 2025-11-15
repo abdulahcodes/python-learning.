@@ -14,7 +14,5 @@ My daily Python practice and beginner projects.
 - [ ] Day 6 – Dictionaries & Sets
 - [ ] Day 7 – Conditional Expressions
 - [ ] Day 8 – File Handling
-
----
-
-## 📁 Repo Structure (example)
+- [ ] Day 9 - Loops in Python
+      
