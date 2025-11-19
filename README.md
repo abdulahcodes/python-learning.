@@ -16,4 +16,5 @@ My daily Python practice and beginner projects.
 - [ ] Day 8 – File Handling
 - [ ] Day 9 - Loops in Python
 - [ ] Day 9 - Practice Set of Loop ( Multiplication Table)
-- [ ] Day 10 - Practice Of Loop ( Program to check whether given number is Prime or Odd )       
+- [ ] Day 10 - Practice Of Loop ( Program to check whether given number is Prime or Odd )
+- [ ] Day 11 - Functions & Recursion in Python
