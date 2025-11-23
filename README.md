@@ -18,3 +18,4 @@ My daily Python practice and beginner projects.
 - [ ] Day 9 - Practice Set of Loop ( Multiplication Table)
 - [ ] Day 10 - Practice Of Loop ( Program to check whether given number is Prime or Odd )
 - [ ] Day 11 - Functions & Recursion in Python
+- [ ] Day 12 - Completed python's Basics.
