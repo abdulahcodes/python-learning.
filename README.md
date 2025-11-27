@@ -19,3 +19,6 @@ My daily Python practice and beginner projects.
 - [ ] Day 10 - Practice Of Loop ( Program to check whether given number is Prime or Odd )
 - [ ] Day 11 - Functions & Recursion in Python
 - [ ] Day 12 - Completed python's Basics.
+- [ ] Day 13 - File I/O & Reading a file in Python.
+- [ ] Practice Set :
+- [ ] #1 : A program to read the text from a given file and find out whether it contains the particular word.
